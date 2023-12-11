@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hotel-Dashboard/static/css/main.30c6410b.css",
+    "main.js": "/Hotel-Dashboard/static/js/main.ecad8aeb.js",
+    "static/js/787.8c0d0793.chunk.js": "/Hotel-Dashboard/static/js/787.8c0d0793.chunk.js",
+    "index.html": "/Hotel-Dashboard/index.html",
+    "main.30c6410b.css.map": "/Hotel-Dashboard/static/css/main.30c6410b.css.map",
+    "main.ecad8aeb.js.map": "/Hotel-Dashboard/static/js/main.ecad8aeb.js.map",
+    "787.8c0d0793.chunk.js.map": "/Hotel-Dashboard/static/js/787.8c0d0793.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30c6410b.css",
+    "static/js/main.ecad8aeb.js"
+  ]
+}
